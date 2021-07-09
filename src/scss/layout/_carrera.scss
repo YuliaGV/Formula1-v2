@@ -1,0 +1,48 @@
+.contenido-podium{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.tabla-podium{
+    font-size: 1.5rem;          
+    border-collapse: collapse;
+
+    th {        
+        padding: 1rem;     
+        background: $azulroyal;  
+        color:$blanco;
+    }
+    
+    td {
+        padding: 1rem;     
+        background: $azul;   
+        color:$blanco;  
+    }
+
+}
+
+.podium-descrip{
+    font-size: 1.5rem;
+
+    button{
+        padding: 0.8rem;
+        background-color: $azul;
+        color: $blanco;
+        border-radius: 0.5rem;
+        font-size:1.4rem;
+        margin-bottom: 2rem;
+
+        &:hover {
+            color: $naranja;
+        }
+
+    }
+
+}
+
+

@@ -1,0 +1,29 @@
+{
+  "name": "formula1_v2",
+  "version": "1.0.0",
+  "description": "simulation game",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaGV/formula1-v2.git"
+  },
+  "keywords": [
+    "Web-Design",
+    "PHP",
+    "Game"
+  ],
+  "author": "Yuliana Gaviria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaGV/formula1-v2/issues"
+  },
+  "homepage": "https://github.com/YuliaGV/formula1-v2#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.35.1"
+  }
+}
